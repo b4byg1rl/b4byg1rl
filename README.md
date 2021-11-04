@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @b4byg1rl
+- 👀 I’m interested in coding obv
+- 🌱 I’m currently learning C#
